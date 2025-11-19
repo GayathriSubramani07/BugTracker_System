@@ -1,1 +1,0 @@
-# BugTracker_System
