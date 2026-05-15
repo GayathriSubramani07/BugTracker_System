@@ -1,4 +1,4 @@
-# GBugTracker_System 🐞
+# BugTracker_System 🐞
 
 A full-stack Bug Tracker System built using Spring Boot, REST API, JPA, MySQL, React, HTML, CSS, and JavaScript. GBugTracker_System helps teams efficiently report, assign, prioritize, and track bugs in real time while improving project collaboration through a clean and responsive interface.
 
